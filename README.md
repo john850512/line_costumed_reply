@@ -4,7 +4,7 @@
 Template code of line customed reply message(flex message).
 
 ## Demo
-<p align="center"><img src="./img/1.jpg" height="400" width="300"></p>
+<p align="center"><img src="./img/1.jpg" height="400" width="250"></p>
 
 ## Detail
 - [Using Flex Messages](https://developers.line.biz/en/docs/messaging-api/using-flex-messages/)
