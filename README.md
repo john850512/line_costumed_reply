@@ -4,11 +4,11 @@
 Template code of line customed reply message(flex message).
 
 ## How to use?
-#### step 1. import package
+#### Step 1. import package
 ```python 
 from customer_template import create_customer_template
 ```
-#### step 2. just reply customed message with two line!
+#### Step 2. just reply customed message with two line!
 for example:
 ```python
 # this is the demo code of line message api
